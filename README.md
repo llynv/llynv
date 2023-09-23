@@ -45,12 +45,8 @@
   <h2 align="center">⚡&#x1f4c8; My Competitive Programming Stats &#x1f4c8;⚡</h2>
   <hr>
   <div align=center>
-    <a href="https://github.com/anhhung294" title="Go to Source">
-      <img align="left" width=396 src="https://raw.githubusercontent.com/llynv/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-    </a>
-    <a href="https://github.com/anhhung294" title="Go to Source">
-      <img align="right" width=342 src="https://leetcard.jacoblin.cool/linvg?theme=dark&font=Newsreader&ext=contest" />
-    </a>
+    <img align="left" width=396 src="https://raw.githubusercontent.com/llynv/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+    <img align="right" width=342 src="https://leetcard.jacoblin.cool/linvg?theme=dark&font=Newsreader&ext=contest" />
   </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
