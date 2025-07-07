@@ -132,7 +132,7 @@ const llynv: Developer = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=llynv&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=15" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=llynv&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FFA500&currStreakLabel=58A6FF&border_radius=15" alt="GitHub Streak" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llynv&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=8" alt="Top Languages" />
+<img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llynv&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=8" alt="Top Languages" />
 
 <!-- Activity Graph -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=llynv&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA500&area=true&hide_border=true&radius=15" alt="Activity Graph" />
